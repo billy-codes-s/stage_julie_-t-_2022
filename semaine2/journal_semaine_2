@@ -1,4 +1,4 @@
-Voici les tâches que j'ai accompli le lundi 18 juillet 2022:
+-->Voici les tâches que j'ai accompli le lundi 18 juillet 2022:
 1. J'ai complété les exercices et quiz de la semaine 3
 2. J'ai téléchargé les fichers NETCDF pertinants : 
   a. prec.eval.ERA-Int.CRCM5-OUR.day.NAM-22.raw.nc
@@ -7,7 +7,17 @@ Voici les tâches que j'ai accompli le lundi 18 juillet 2022:
 3. J'ai commencé à analyser le code R et à débuter la conversion python (j'ai besoin d'aide là dessus :))
 
 
-Voici les tâches que j'ai accompli le mardi 19 juillet 2022:
+-->Voici les tâches que j'ai accompli le mardi 19 juillet 2022:
 1. J'ai finalement réussi à faire mon network personnel avec 1 layer pour prédire les nombres avec un accuracy de 93 %. Je code est dans le répertoire
 2. J'ai terminé les vidéios de la semaine 4 sur les deep neural network et j'ai fait des réflections sur certain concepts. Je suis prêt à entreprendre les
 quiz et les exercices demain.
+
+-->Voici les tâches que j'ai accompli le mercredi 20 juillet 2022:
+1. J'ai fini les quiz et les exercices de la semaine 4 du premier moule du cours, traitent les "deep networks". Je vais utiliser les connaissances que 
+j'ai acquis pour améliorer le NN que j'ai fait (pour identifier les nombres) en utilisant plus de layers, ce qui devrait, normalement, augmenter la
+précision de 93% à environ 98%.
+2. J'ai téléchargé R, et j'ai lancé le fichier qu'on ma donné et je continue mon analyse des opérations à faire dans python. Voici ce que j'ai déduit 
+jusqu'à présent:
+  a. il faut extraire les données de variables pertinentes.
+  b. il faut extraire les données de la région spécifique (spécifiquement québec)
+  c. si possilbe, créer une carte représentant ces données
