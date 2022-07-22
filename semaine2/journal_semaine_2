@@ -27,3 +27,9 @@ jusqu'à présent:
   b. assembler les données du carte du Québec pour des périodes définies
 2. J'ai continué à écrire mon code pour mon NN de L layers pour reconnaitre des nombres
 
+--> Voici les taches que j'ai accompli le vendredi 22 juillet 2022:
+1. J'ai rafine mon modele pour chercher les donnes NETCDF et j'ai commence a creer les cartes pertinantes
+2. J'ai grandement avance mon mondele NN de plusieurs couches pour le detectage de nombre
+3. J'ai eu une discussion avec professeure Carreau sur les fichiers NETCDF et les prochaines etapes a entreprendre:
+  a. Je dois trouver une librairie de temps pour pouvoir acceder les dates precises et pour classifier des donnes en saisons
+  b. Je dois lire le blog et aussi les documentations necessaires pour faire des autoencodeurs
