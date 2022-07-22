@@ -6,7 +6,6 @@
   c. tmax.eval.ERA-Int.CRCM5-OUR.day.NAM-22.raw.nc
 3. J'ai commencé à analyser le code R et à débuter la conversion python (j'ai besoin d'aide là dessus :))
 
-
 -->Voici les tâches que j'ai accompli le mardi 19 juillet 2022:
 1. J'ai finalement réussi à faire mon network personnel avec 1 layer pour prédire les nombres avec un accuracy de 93 %. Je code est dans le répertoire
 2. J'ai terminé les vidéios de la semaine 4 sur les deep neural network et j'ai fait des réflections sur certain concepts. Je suis prêt à entreprendre les
@@ -21,3 +20,10 @@ jusqu'à présent:
   a. il faut extraire les données de variables pertinentes.
   b. il faut extraire les données de la région spécifique (spécifiquement québec)
   c. si possilbe, créer une carte représentant ces données
+  
+-->Voici les taches que j'ai accompli le jeudi 21 juillet 2022:
+1. J'ai créé un code pour:
+  a. créer une carte du québec 
+  b. assembler les données du carte du Québec pour des périodes définies
+2. J'ai continué à écrire mon code pour mon NN de L layers pour reconnaitre des nombres
+
