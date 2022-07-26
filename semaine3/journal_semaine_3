@@ -1,0 +1,5 @@
+--> Voici ce que j'ai accompli le lundi 25 juillet:
+1. J'ai fait des lectures sur les autoencoders (https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+2. J'ai fait des lectures sur les PCA(https://builtin.com/data-science/step-step-explanation-principal-component-analysis), qui ont des elements communs avec les VAE
+3. J'ai fabriqué, avec l'aide d'une librairie (datetime), une foncton qui permet l'extraction de temps efficace
+4. J'ai continué mes efforts à reproduire le rapport de M.
