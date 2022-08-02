@@ -1,0 +1,9 @@
+-->Voici les tâches que j'ai accompli le lundi 1 aout 2022:
+1. J'ai complété les exercice de la semaine 1 du module 2, qui traitait de la régularisation
+des données, du modèle(to avoid overfitting) et aussi des méthodes pour tester les gradients
+(par les petitis deltas).
+2. J'ai travaillé grandement sur le nettoyage du code. La librairie net_simple a été amorcée
+
+-->Voici les tâches que j'ai accompli le mardi 2 aout 2022:
+1. J'ai fini le nettoyage du code. La librairie est capable de faire toutes les opérations de base
+sur la base de données
