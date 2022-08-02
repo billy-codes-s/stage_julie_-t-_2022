@@ -1,0 +1,8 @@
+->voici une librairie pour traiter de maniere simple les fichiers netcdf
+les operations de la librairies operent sous la premise que la location geographique d'interet
+ne change pas durant les operations
+->c'est un travail ameliore du fichier de traitement simple
+->Bien que la librairie permet d'extraire des donnes rapidement et facilement, ce n'est pas la meilleure
+option pour faire des operations plus discretes et avancees (dans ce cas, je recommande que vous 
+adaptez ce fichier, ou il est generalement facile d'ajouter des operations a faire sur les bases de 
+donnes)
