@@ -1,1 +1,10 @@
-
+-->Voici les tâches que j'ai accompli le lundi 1 aout 2022:
+1. J'ai comlété les vidéos de la semaine 3 du module 2, qui traitent de:
+  a. La normalisation des layers internes (et des processus d'implementation)
+  b. Des méthodes de classification (softmax hardmax)
+  c. introduction à tensorflow
+  
+2. J'ai subséquemment, commencé à apprendre la librairie Tensorflow, puisque je pense que ça sera une partie intégrale des VAES.
+J'ai consulté la documentation officielle à ce lien: https://www.tensorflow.org/tutorials
+  a. J'ai appris les objects de base (keras.layers, keras.sequence, model.compile, model.fit (forward, backward propagation), model.evaluate (prediction test)
+  b. J'ai commencé a apprendre sur des moyens de réduire le overfitting 
