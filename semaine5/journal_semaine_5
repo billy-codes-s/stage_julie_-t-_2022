@@ -8,3 +8,30 @@
 J'ai consulté la documentation officielle à ce lien: https://www.tensorflow.org/tutorials
   a. J'ai appris les objects de base (keras.layers, keras.sequence, model.compile, model.fit (forward, backward propagation), model.evaluate (prediction test)
   b. J'ai commencé a apprendre sur des moyens de réduire le overfitting 
+  
+Puisque je n'ai pas écrit dans ce journal pendant plusieurs jours, voici ce que j'ai accompli cette semaine en général.
+
+-->Tout d'abord, j'ai terminé le module 2 du cours, qui traitent de l'optimisation, de la normalisation et regularisation des NN afin
+d'obtenir des resultats plus coherents, et de reduire entre autres le "overfitting".
+
+-->Ensuite, j'ai commencé ma recherche sur tensorflow, où j'ai appris les elements de bases que j'ai appris durant le cours:
+1. la normalisation
+2. Les optimisateurs
+3. Les reseaux neurones, et la creation de modeles, tes couches et les hyperparametres
+4. La compilation de modele et l'entrainemenet des reseaux neurones
+5. La prediction et l'evaluation des reseaux neurones sur des bases de données
+6. Sauvegarder un reaseau neurones, sauvegarder les paramètres entrainés afin de continuer l'entrainement, ou de partager le modèle
+avec d'autres personnes.
+7. La programmation TF fonctionnelle, où l'on peut créer des computational graph de reseaux neurones, ce qui permet de 
+creer des resaux neuronnes multi-dimensionnelles.
+8. les convolutional layers dans tensorflow.
+
+--> J'ai continué de faire mes tests avec les bases de données MNIST, mais avec tensorflow qui permet un rythme de travail plus
+rapide (et aussi avec Google Colab). Jai pu faire des encodeurs à differents niveaux de precision. Mon autoencodeur final a un
+erreur de reconstruction de 0.007, et les resulats obtenus sont coherents avec la theorie.
+
+--> J'ai finalement continué ma recherche sur les CNN, avec le module 4 du cours, où il explique c'est quoi les CNN, comment 
+faire les calculs, des nouveaux hyperparameteres telles que P, S, des layers avec plusieurs dimensions, les avantages des
+CNN pour le traitement des images. J'ai complété les videos et j'ai fini les exercices de la semaine 1, et je pense que j'ai
+assez de compétence sur les CNN pour poursuivre ma mission sur les VAE.
+
